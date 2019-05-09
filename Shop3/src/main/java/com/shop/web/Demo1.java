@@ -16,7 +16,7 @@ public class Demo1 extends HttpServlet {
      * Default constructor. 
      * @return 
      */
-	void finish(){}
+	
     public Demo1() {
         // TODO Auto-generated constructor stub
     }
