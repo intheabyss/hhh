@@ -21,7 +21,7 @@ void make(){};
     public Demo1() {
         // TODO Auto-generated constructor stub
     }
-
+    void update() {};
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
