@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class Demo1 extends HttpServlet {
 	//sysohah
 	private static final long serialVersionUID = 1L;
-
+void make(){};
     /**
      * Default constructor. 
      * @return 
